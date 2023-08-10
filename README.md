@@ -4,21 +4,38 @@ It is built using NodeJs, ExpressJs, MongoDB, EJS and JavaScript.
 
 # 🛠️ Tools Used
 NodeJS
+
 MongoDB
+
 ExpressJS
+
 EJS
+
 Bootstrap
+
 # 📚 Libraries:
 bcryptjs
+
 connect-flash
+
 connect-mongo
+
 cookie-parser
+
 dotenv
+
 ejs
+
 express
+
 express-ejs-layout
+
 express-session
+
 mongoose
+
 passport
+
 passport-jwt
+
 passport-local
